@@ -10,8 +10,7 @@ avant de pouvoir lancer le bot, il y a quelques commandes a executer dans la con
     pip install webdriver_manager
     
 Il te faudra aussi installer chrome:
-
-    https://www.google.com/chrome/bsem/download/fr/?brand=ONGR&ds_kid=43700073941328470&gclid=9441fd876e821b200dbe9ed90fde5bfa&gclsrc=3p.ds&utm_source=bing&utm_medium=cpc&utm_campaign=1011197%20%7C%20Chrome%20Win10%20%7C%20DR%20%7C%20ESS01%20%7C%20EMEA%20%7C%20FR%20%7C%20fr%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Top%20KWDS&utm_term=chrome&utm_content=Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Chrome%20~%20Top%20KWDS%20NEW&gclid=9441fd876e821b200dbe9ed90fde5bfa&gclsrc=3p.ds
+https://www.google.com/chrome/bsem/download/fr/?brand=ONGR&ds_kid=43700073941328470&gclid=9441fd876e821b200dbe9ed90fde5bfa&gclsrc=3p.ds&utm_source=bing&utm_medium=cpc&utm_campaign=1011197%20%7C%20Chrome%20Win10%20%7C%20DR%20%7C%20ESS01%20%7C%20EMEA%20%7C%20FR%20%7C%20fr%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Top%20KWDS&utm_term=chrome&utm_content=Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Chrome%20~%20Top%20KWDS%20NEW&gclid=9441fd876e821b200dbe9ed90fde5bfa&gclsrc=3p.ds
 
 
 Le code est assez approximatif, alors il y a quelques précautions a prendre:
