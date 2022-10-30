@@ -18,7 +18,9 @@ Le code est assez approximatif, alors il y a quelques précautions a prendre:
 Le code va vous faire vous autentifier sur le moodle et ensuite va vous amener sur globalexam
 
 -si ça marche pas, tentez de relancer le programme 
+
 -si il y a une deuxième tab qui s'ouvre dans chrome au moment d'accceder a globalexam, fermez la le plus rapidement possible 
+
 -si il y a des erreurs de connexion a globalexam, attendez plusieurs essais puis si ça ne marche toujours pas, relancez le programme.
 
 
