@@ -18,9 +18,13 @@ Le code va vous faire vous autentifier sur le moodle et ensuite va vous amener s
 
 -si ça marche pas, tentez de relancer le programme 
 
--si il y a une deuxième tab qui s'ouvre dans chrome au moment d'accceder a globalexam, fermez la le plus rapidement possible 
-
 -si il y a des erreurs de connexion a globalexam, attendez plusieurs essais puis si ça ne marche toujours pas, relancez le programme.
 
 
 Hesitez pas a modifier le programme et a me donner vos modifications
+
+
+Update V2
+-Mis a jours des fonctions de recherche (les fonctions plus supportées ont été retirées) 
+-Ajout d'affichage dans la console afin d'avoir le detail des actions 
+-Ajout d'error handling sur certaines parties du code 
