@@ -32,6 +32,7 @@ Update V2
 
 -Ajout d'error handling sur certaines parties du code 
 
+
 Update V2.1
 
 -Changement du style d'affichage
