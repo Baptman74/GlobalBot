@@ -28,3 +28,6 @@ Update V2
 -Mis a jours des fonctions de recherche (les fonctions plus supportées ont été retirées) 
 -Ajout d'affichage dans la console afin d'avoir le detail des actions 
 -Ajout d'error handling sur certaines parties du code 
+
+Update V2.1
+-Changement du style d'affichage
